@@ -1,0 +1,23 @@
+
+
+button{
+    background-color:rgb(237, 119, 119);
+    border-color: rgb(80, 60, 33);
+    border-style:double;
+    padding: 2px;
+    margin: 5px;
+
+    display: block;
+    margin: auto;
+}
+
+
+body{
+    background-color: blanchedalmond;
+    padding-top: 55px;
+    margin: 0;
+    width: 100%;
+}
+
+
+

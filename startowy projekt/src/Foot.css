@@ -1,0 +1,13 @@
+.foot{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    bottom:0;
+    left: 0;
+
+
+    color: white;
+    font-size:20pt;
+    padding: 10px;
+    clear: both;
+}

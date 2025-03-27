@@ -1,0 +1,23 @@
+
+
+#tytul{
+    margin-left:10px ;
+}
+
+.left{
+    display: block;
+    float: left;
+    background-color: beige;
+    width: 40%;
+    font-size: 1.3px;
+    height: 350px;
+}
+
+.right{
+    display: block;
+    float: left;
+    background-color: beige;
+    width: 40%;
+    margin-left: 20px;
+    height: 350px;
+}

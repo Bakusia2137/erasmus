@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Boberitka",
+        "src":"https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oESjThAmiBOTIP49BYadZNDiEATBoMMXPZIIE?lk3s=81f88b70&x-expires=1743116400&x-signature=sqm1RhIpqPZTtGgZNXvaY5ZKx%2BE%3D&shp=81f88b70&shcp=-",
+        "age": 19,
+        "country": "Poland",
+        "likes": 666
+    }, 
+
+    {
+        "id": 2,
+        "name": "Krokodilo",
+        "src":"https://i.kym-cdn.com/entries/icons/facebook/000/053/420/Bombardiro_crocodilo_cover.jpg",
+        "age": 26,
+        "country": "Russia",
+        "likes": 12
+    }
+]

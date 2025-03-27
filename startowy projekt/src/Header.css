@@ -1,0 +1,17 @@
+.head{
+    position:fixed;
+    background-color: darkgray;
+    font-size:30pt;
+    padding: 6px;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+
+    @media(max-width:500px){
+    
+        .head{
+            font-size: 15pt;      
+        }
+    }
